@@ -1,0 +1,18 @@
+.Header{
+  color:blue;
+  background-color: chartreuse;
+  display:flex;
+  justify-content:space-between;
+}
+
+.Site{
+  color:skyblue;
+  background-color:white;
+}
+
+.Grid{
+  color:slategrey;
+  background-color:peachpuff;
+  display:flex;
+  flex-wrap: wrap;
+}
